@@ -9,6 +9,7 @@ Flixable Netflix Movies + TV show Dataset.
 
 ## Results & Discussion
 Some of the recommendations given by the model are:
+
 ![1](https://user-images.githubusercontent.com/64839751/92411842-c3511900-f149-11ea-9985-b241ddd66b15.png)
 
 ![2](https://user-images.githubusercontent.com/64839751/92411845-c3e9af80-f149-11ea-8f73-2f7bd2eec198.png)
